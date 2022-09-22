@@ -2,7 +2,7 @@
 
 ## In Class 01
 
-<img src=".\inclass_01\Capture.PNG" alt="Capture" style="zoom:50%;" /><img src="C:.\inclass_01\Capture2.PNG" alt="Capture2" style="zoom:50%;" />
+<img src=".\inclass_01\Capture.PNG" alt="Capture" style="zoom:50%;" /><img src=".\inclass_01\Capture2.PNG" alt="Capture2" style="zoom:50%;" />
 
 - Challenge 1, maximum accerlation
 - 2 Figures, first frame and second frame
