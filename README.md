@@ -1,5 +1,9 @@
 # CSCI5611 Homework1
 
+Author: Nilei Pan
+
+x500: pan00128
+
 ## In Class 01
 
 <img src=".\inclass_01\Capture.PNG" alt="Capture" style="zoom:50%;" /><img src=".\inclass_01\Capture2.PNG" alt="Capture2" style="zoom:50%;" />
